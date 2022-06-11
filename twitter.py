@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Fri Feb  5 20:11:12 2021
-
-@author: Alistair
-"""
-
 #-*- coding: utf-8 -*-
 
 #imports
